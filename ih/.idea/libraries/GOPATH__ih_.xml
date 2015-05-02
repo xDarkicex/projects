@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;ih&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../.DS_Store" />
+      <root url="file://$PROJECT_DIR$/../../../.idea" />
+      <root url="file://$PROJECT_DIR$/../../../golang" />
+      <root url="file://$PROJECT_DIR$/../../../matryer" />
+      <root url="file://$PROJECT_DIR$/../../../.DS_Store" />
+      <root url="file://$PROJECT_DIR$/../../csuf" />
+      <root url="file://$PROJECT_DIR$/../../tooling" />
+      <root url="file://$PROJECT_DIR$/../.git" />
+      <root url="file://$PROJECT_DIR$/../.DS_Store" />
+      <root url="file://$PROJECT_DIR$/../.gitignore" />
+      <root url="file://$PROJECT_DIR$/../julians_code" />
+      <root url="file://$PROJECT_DIR$/../fcc_conference" />
+      <root url="file://$PROJECT_DIR$/../greatercommons" />
+      <root url="file://$PROJECT_DIR$/../julians_parallax" />
+      <root url="file://$PROJECT_DIR$/../Fresno-Radon-Mitigation" />
+      <root url="file://$PROJECT_DIR$/../../.DS_Store" />
+      <root url="file://$PROJECT_DIR$/../../build-web-application-with-golang" />
+      <root url="file://$PROJECT_DIR$/../../../julienschmidt" />
+      <root url="file://$PROJECT_DIR$/../../../../golang.org" />
+      <root url="file:///usr/local/go/src" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

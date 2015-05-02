@@ -1,0 +1,31 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+/*
+font
+font-family: 'Droid Sans', sans-serif;
+*/
+
+/*
+=================
+comment
+=================
+*/
+
+
+/*
+=================
+MEDIA QUERIES
+=================
+*/
+
+/*LESS THAN 460px*/
+@media all and (max-width: 460px) {
+
+}
+
+/*GREATER THAN 460px*/
+@media all and (min-width: 460px) {
+
+}
